@@ -1,6 +1,6 @@
 # Hi there, I'm Hao Luo 👋
 
-\<!-- copilot 帮我写的 readme -->
+\<!-- copilot 写的 readme -->
 
 ## About Me
 I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love collaborating with others and contributing to the community by solving real-world problems through code.
