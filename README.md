@@ -1,6 +1,6 @@
 # Hi there, I'm Hao Luo 👋
 
-<!-- This README was written by Copilot - I haven't made any changes to it. -->
+\<!-- This README was written by Copilot and I haven't made any changes to it. -->
 
 ## About Me
 I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love collaborating with others and contributing to the community by solving real-world problems through code.
